@@ -8,16 +8,16 @@
 
 TD Staking DApp is a demonstration DeFi application that showcases a modern blockchain staking system. Users can stake tokens, earn rewards, and manage their positions through a clean, responsive web interface.
 
-**⚠️ This is a testnet demonstration project and has NOT been independently audited for production use. See [SECURITY.md](./SECURITY.md) for important disclaimers.**
+** This is a testnet demonstration project and has NOT been independently audited for production use. See [SECURITY.md](./SECURITY.md) for important disclaimers.**
 
 ## Features
 
-- 🔐 **Wallet Integration** — Connect MetaMask or other Web3 wallets
-- 📊 **Stake Management** — Deposit and withdraw staking tokens
-- 🎯 **Reward Tracking** — View earned rewards in real-time
-- 💰 **Balance Dashboard** — Monitor wallet and contract balances
-- 📱 **Responsive Design** — Works seamlessly on desktop and mobile
-- ⚡ **Modern Stack** — Built with React, TypeScript, and ethers.js
+-  **Wallet Integration** — Connect MetaMask or other Web3 wallets
+-  **Stake Management** — Deposit and withdraw staking tokens
+-  **Reward Tracking** — View earned rewards in real-time
+- **Balance Dashboard** — Monitor wallet and contract balances
+-  **Responsive Design** — Works seamlessly on desktop and mobile
+- **Modern Stack** — Built with React, TypeScript, and ethers.js
 
 ## Tech Stack
 
@@ -287,7 +287,7 @@ User → Frontend UI → ethers.js → Web3 Provider → Staking Contract
 
 ## Security Considerations
 
-⚠️ **This is a demonstration project on testnet. It has NOT been independently audited and should NOT be used in production.**
+ **This is a demonstration project on testnet. It has NOT been independently audited and should NOT be used in production.**
 
 For full security information, see [SECURITY.md](./SECURITY.md).
 
